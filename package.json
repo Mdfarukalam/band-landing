@@ -2,7 +2,7 @@
   "name": "bachbaind",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://bhaveshmisra612.github.io/bachband",
+ "homepage": "https://bhaveshmisra612.github.io/bachband",
   "type": "module",
   "scripts": {
     "dev": "vite",
